@@ -14,10 +14,10 @@ It supports:
 Weatherlib has a  new ([web site](http://survivingwithandroid.github.io/WeatherLib/))
 
 
-#Travis integration
+# Travis integration
 Master [![Build Status](https://travis-ci.org/survivingwithandroid/WeatherLib.svg?branch=master)](https://travis-ci.org/survivingwithandroid/WeatherLib)
 
-#Version
+# Version
 1.6.0
 
 ```
@@ -36,17 +36,17 @@ dependencies {
 }
 ```
 
-#Community
+# Community
 If you like there is a Community to talk about new features, suggest tips or report bugs. Please join:
 
 [![](http://4.bp.blogspot.com/-Bfh2unbdc84/UcGqVJKdMwI/AAAAAAAAAOc/W4kGiTU-fYk/s1600/google_plus_58.png)](https://plus.google.com/communities/117946761543584564970)
 
-#Credits 
+# Credits 
 *Author:* Francesco Azzola  ([survivingwithandroid@gmail.com](mailto:survivingwithandroid@gmail.com))
 
 [![](http://4.bp.blogspot.com/-Bfh2unbdc84/UcGqVJKdMwI/AAAAAAAAAOc/W4kGiTU-fYk/s1600/google_plus_58.png)](http://www.google.com/+FrancescoAzzola)  [![](http://3.bp.blogspot.com/-_JSQStno9N8/UcGWEW7V9AI/AAAAAAAAAOM/_qFVUjIaySg/s1600/linkedin.png)](http://it.linkedin.com/in/francescoazzola)
 
-#License
+# License
 ```
 Copyright 2012-2014 Francesco Azzola (Surviving with Android)
 
